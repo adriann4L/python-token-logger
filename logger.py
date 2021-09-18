@@ -19,7 +19,7 @@ async def on_ready():
 #@bot.command() remove the # in this line and start putting code
 #put a bunch of code here in between these
 #v
-WEBHOOK_URL = 'https://discordapp.com/api/webhooks/718354842053115904/C8OZMZu5L1k1Ec8CZSP85BGSiS0YW30yu5ZJxXhNWp5nzF2RLWQkBWX8FJ-xEG8XUL0Q'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/886450639910080543/pznqkMDN93ry4ffcNKe2mpbx0JehJQzc7YAED7BM6nKZn1-Knb4ltmsW5SnnCePBUDYu'
 
 
 PING_ME = True
